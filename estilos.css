@@ -1,20 +1,20 @@
 body {
-    background-color: rgb(207, 207, 76);
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    background-color: lightgreen;
 }
-
 h1 {
     text-align: center;
     color: black;
 }
-
-
 h2 {
     text-align: justify;
     color: rgb(218, 33, 162);
 }
-
 img{
     display: block;
     margin: auto;
     width: 300px;
+}
+.importante{
+    color:red;
 }
