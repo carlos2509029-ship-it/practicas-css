@@ -1,20 +1,23 @@
 body {
-    font-family: Arial, Arial, Helvetica, sans-serif;
-    background-color: lightgreen;
+    font-family: Arial, sans-serif;;
+    background-color: lightyellow;
 }
 h1 {
     text-align: center;
-    color: black;
+    color: navy;
 }
 h2 {
     text-align: justify;
     color: rgb(218, 33, 162);
 }
+.importante{
+    color:red;
+}
+#titulo-principal {
+    font-size: 40px;
+}
 img{
     display: block;
     margin: auto;
     width: 300px;
-}
-.importante{
-    color:red;
 }
